@@ -1,0 +1,19 @@
+{
+  "name": "astrology-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "node server/index.js",
+  "dev": "nodemon server/index.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
