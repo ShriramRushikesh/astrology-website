@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# OS metadata
+.DS_Store
+
+# Lock files (to avoid conflicts)
+package-lock.json
+yarn.lock
+
+# Log files
+*.log
+
+# Editor files
+.vscode/
+.idea/
